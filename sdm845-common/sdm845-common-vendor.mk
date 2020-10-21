@@ -121,6 +121,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleWCD9340 \
     WfdService \
     QtiTelephonyService \
+    AndroidAutoStub \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
